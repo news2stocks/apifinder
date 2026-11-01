@@ -379,6 +379,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [PostalCodes.info](https://postalcodes.info/api) | Postal-code lookup, country exports, and address validation data | `apiKey` | Unknown | Freemium | [Docs](https://postalcodes.info/api) |
 | [REST Countries](https://restcountries.com) | Information about countries | No | Yes | Free | [Docs](https://restcountries.com/) |
+| [ROMSO Wikipedia Search](https://api.romso.com/) | Keyless search across English Wikipedia; returns SearXNG-compatible JSON. | No | No | Free | [Docs](https://api.romso.com/) |
 | [Wikipedia](https://www.wikipedia.org) | Wikipedia content and search | No | Yes | Free | [Docs](https://www.mediawiki.org/wiki/API:Main_page) |
 | [World Bank](https://www.worldbank.org) | Global development data | No | Yes | Free | [Docs](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information) |
 
